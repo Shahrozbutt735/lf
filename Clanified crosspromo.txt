@@ -35,4 +35,5 @@
             "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
             "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Fantasy-Animal-World-Magical-Forest.jpg"
         }
+        ]
 }
