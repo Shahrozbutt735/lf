@@ -1,0 +1,38 @@
+{
+    "Items": [
+        {
+            "GameId": "1",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.ultimate.giraffe.family.simulator&referrer=utm_source%3DGiraffe%2520Family%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Giraffe-Family-Life-Jungle-Simulator.jpg"
+        },
+        {
+            "GameId": "2",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.sea.horse.adventure&referrer=utm_source%3DSea%2520Hero%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Sea-Hero-Water-Adventure.jpg"
+        },
+        {
+            "GameId": "3",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.cat.family.kitty.game.simulator&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Cat-Family-Simulator-Stray-Cute-Kitty-Game.jpg"
+        },
+        {
+            "GameId": "4",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.rope.hero.city&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Cipher-Rope-Hero-City-Crime.jpg"
+        },
+        {
+        "GameId": "5",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.fantasy.animal.magical&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Fantasy-Animal-World-Magical-Forest.jpg"
+        }
+}
