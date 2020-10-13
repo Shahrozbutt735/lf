@@ -4,7 +4,7 @@
             "GameId": "1",
             "GameLink": "https://play.google.com/store/apps/details?id=com.last.fighter.ultimate.sea.dino.world&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Banner": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Sea-Dinosaur.png",
             "Native": "https://raw.githubusercontent.com/Shahrozbutt735/lf/master/Ultimate-Sea-Dinosaur-Monster-World.jpg"
         },
         {
@@ -23,10 +23,10 @@
         },
         {
             "GameId": "4",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.last.fighter.multi.web.boy.hero&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.lion.rope.animal.rescue&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
-            "Native": "https://raw.githubusercontent.com/Shahrozbutt735/lf/master/Multi-Spider-Web-Boy-Hero-Survival.jpg"
+            "Banner": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Flying-Lion.png",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Flying-Lion-Rope-Hero-Animal-Rescue-Game.jpg"
         },
         {
             "GameId": "5",
@@ -51,10 +51,10 @@
         },
         {
             "GameId": "8",
-            "GameLink": "https://play.google.com/store/apps/details?id=com.last.fighter.interior.home.destruct.sim&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.flying.griffin.sim&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
-            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
-            "Native": "https://raw.githubusercontent.com/Shahrozbutt735/lf/master/Interior-Smasher-Home-FPS-Destruction-Simulator.jpg"
+            "Banner": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Wild-Griffin.png",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Wild-Griffin-Family-Flying-Eagle-Simulator.jpg"
         },
         {
         "GameId": "9",
